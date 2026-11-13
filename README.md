@@ -1,1 +1,0 @@
-# desafio-notebookllm-can-
